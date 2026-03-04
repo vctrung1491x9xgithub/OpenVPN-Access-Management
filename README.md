@@ -9,6 +9,8 @@
   + Peichart,
   + Ip used
 <img width="1906" height="1086" alt="image" src="https://github.com/user-attachments/assets/f45e40b1-9005-4813-802f-563af4f819ae" />
+<img width="1904" height="1084" alt="image" src="https://github.com/user-attachments/assets/f64407e3-8aa3-47d9-8b83-2b34e4d66cf6" />
+
 ## 2. Giao diện Client
   Ở giao diện này cho phép:
   
