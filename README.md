@@ -29,7 +29,7 @@
   
   + Tạo mới User,
   + Disable User,
-  + Cập nhật User,
+  + Cập nhật User
 <img width="1904" height="1083" alt="image" src="https://github.com/user-attachments/assets/6a575bd5-9e25-4719-9026-c5512f6e51ff" />
 <img width="1905" height="1082" alt="image" src="https://github.com/user-attachments/assets/25776f2c-b959-426b-9c2d-3f8d19b237c2" />
 
